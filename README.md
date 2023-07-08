@@ -1,16 +1,22 @@
-# appchat_socket
+ <h1>App Social Media Flutter - Bloc Pattern</h1>
 
-A new Flutter project.
+ 
+1.Screen Main
+![image](https://github.com/thinhho0019/appchat_socket_io/assets/84610502/9e7e8707-fc6d-460d-8439-6a8b2002ed76)
+2.Screen Post
+![image](https://github.com/thinhho0019/appchat_socket_io/assets/84610502/de9af6dc-0d99-4d00-b5db-a039eb4c186f)
 
-## Getting Started
+3.Screen Conversation
+![image](https://github.com/thinhho0019/appchat_socket_io/assets/84610502/a5def4dc-4f0f-46d8-b5f5-42eb9d7a1891)
 
-This project is a starting point for a Flutter application.
+4.Screen Friend
+![image](https://github.com/thinhho0019/appchat_socket_io/assets/84610502/952b0854-cc06-44f1-9474-7bf834670028)
 
-A few resources to get you started if this is your first Flutter project:
+5.Screen Profile
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/thinhho0019/appchat_socket_io/assets/84610502/6d063862-db2b-4d3d-b4fc-67454ec35e12)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+6.Main Post
+![image](https://github.com/thinhho0019/appchat_socket_io/assets/84610502/ccdaaa34-567f-4cd0-93d9-365d87d1b90b)
+
+Link Test App : https://drive.google.com/file/d/1xG7MMV9oqj5Kx6sjvB2Uu_epdFtrogSr/view?usp=sharing
