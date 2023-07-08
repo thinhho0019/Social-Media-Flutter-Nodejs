@@ -1,5 +1,16 @@
  <h1>App Social Media Flutter - Bloc Pattern</h1>
- 
+
++ The application includes functions
+ - Add Post
+ - Delete Post
+ - Update Post
+ - Conversation
+ - Add friend
+ - Search friend
+ - Login google
+ - Update Profile
+ - Upload Avartar and background avatar
+ - Muti upload image
 #Realtime app and use Flutter(Bloc Pattern) ,Nodejs, SocketIo , MongoDB
 
 #Here dont show Backend(Nodejs) ,if you want to know more information please contact me via email : (hoxuanthinh68@gmail.com)
