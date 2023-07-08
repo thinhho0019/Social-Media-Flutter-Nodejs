@@ -11,6 +11,8 @@
  - Update Profile
  - Upload Avartar and background avatar
  - Muti upload image
+
+
 #Realtime app and use Flutter(Bloc Pattern) ,Nodejs, SocketIo , MongoDB
 
 #Here dont show Backend(Nodejs) ,if you want to know more information please contact me via email : (hoxuanthinh68@gmail.com)
