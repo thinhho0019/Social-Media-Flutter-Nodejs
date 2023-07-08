@@ -2,7 +2,7 @@
  
 #Realtime app and use Flutter(Bloc Pattern) ,Nodejs, SocketIo , MongoDB
 
-#Here dont show Backend(Nodejs) ,if you want to know more imformation please contact me via email : (hoxuanthinh68@gmail.com)
+#Here dont show Backend(Nodejs) ,if you want to know more information please contact me via email : (hoxuanthinh68@gmail.com)
 
 1.Screen Main
 ![image](https://github.com/thinhho0019/appchat_socket_io/assets/84610502/9e7e8707-fc6d-460d-8439-6a8b2002ed76)
