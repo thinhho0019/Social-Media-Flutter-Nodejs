@@ -1,6 +1,6 @@
  <h1>App Social Media Flutter - Bloc Pattern</h1>
 
-+ The application includes functions
++ <h2>The application includes functions</h2>
  - Add Post
  - Delete Post
  - Update Post
@@ -11,6 +11,7 @@
  - Update Profile
  - Upload Avartar and background avatar
  - Muti upload image
+ - Realtime chat show online,typing
 
 
 #Realtime app and use Flutter(Bloc Pattern) ,Nodejs, SocketIo , MongoDB
