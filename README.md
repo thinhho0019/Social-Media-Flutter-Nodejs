@@ -7,7 +7,7 @@
  - Conversation
  - Add friend
  - Search friend
- - Login google
+ - Login google 
  - Update Profile
  - Upload Avartar and background avatar
  - Muti upload image
@@ -36,5 +36,3 @@
 
 6.Screen Login
 ![image](https://github.com/thinhho0019/Social-Media-Flutter-Nodejs/assets/84610502/d93c8011-ff02-4fc7-8e41-c36a4b0efa1d)
-
-Link Test App : https://drive.google.com/file/d/1xG7MMV9oqj5Kx6sjvB2Uu_epdFtrogSr/view?usp=sharing
