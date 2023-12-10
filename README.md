@@ -20,7 +20,7 @@
 #LINK BACKEND : https://github.com/thinhho0019/nodejs_social_media
 
 
-#Here dont show Backend(Nodejs) ,if you want to know more information please contact me via email : (hoxuanthinh68@gmail.com)
+#If you want to know more information please contact me via email : (hoxuanthinh68@gmail.com)
 
 1.Screen Main
 ![image](https://github.com/thinhho0019/Social-Media-Flutter-Nodejs/assets/84610502/dc93686d-16f2-4a12-939d-d5009aa0acf7)
