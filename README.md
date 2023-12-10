@@ -15,7 +15,11 @@
 
 
 #Realtime app and use Flutter(Bloc Pattern) ,Nodejs, SocketIo , MongoDB
+
+
 #LINK BACKEND : https://github.com/thinhho0019/nodejs_social_media
+
+
 #Here dont show Backend(Nodejs) ,if you want to know more information please contact me via email : (hoxuanthinh68@gmail.com)
 
 1.Screen Main
